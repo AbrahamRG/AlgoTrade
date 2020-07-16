@@ -1,5 +1,5 @@
 # AlgoTrade
-AlgoTrade is a trading algorithm based on the MACD strategy to get the recommendation for buy, sell, and hold any stock.  
+AlgoTrade is a serie of trading algorithm based on several trading indicators to get the recommendation for buy, sell, and hold any stock.  
 
 Disclaimer: This code is just for educational purposes. The author doesn´t recommend using it for real trades yet.
 
